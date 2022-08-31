@@ -47,4 +47,5 @@ pip install holoviews
 
 ## Contributers
 Hugo Velazquez
+
 linkedin.com/in/hugoghvelazquez
