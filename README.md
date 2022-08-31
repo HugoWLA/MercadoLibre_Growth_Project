@@ -5,7 +5,7 @@ we can find out if the ability to predict search traffic can translate into the 
 
 ## Technologies
 
-This project uses several different add-ons, please make sure they are up to date.
+This project uses Python 3.9 in addition several different add-ons, please make sure they are up to date.
 
 * [pandas 1.4.3](https://github.com/pandas-dev/pandas/blob/main/README.md) - cv files and operations.
 
