@@ -23,7 +23,7 @@ This project uses several different add-ons, please make sure they are up to dat
 
 ![Pandas Logo](images/Pandas.png) ![hv plot logo](images/hvplot.png)
 ![numpy logo](images/Numpy.png)![matplotlib logo](images/matplotlib.png) ![JupyterLab Logo](images/jupyterlab.png)
-![Holoviews Logo](images/holoviews.png)
+![Holoviews Logo](images/HoloViews.png)
 
 
 
