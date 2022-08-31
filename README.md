@@ -21,8 +21,8 @@ This project uses several different add-ons, please make sure they are up to dat
 
 * [datetime 4.5](https://pypi.org/project/DateTime/) - Encapsulations of date/time values.
 
-! [Python Logo](images/python.png) ! [Pandas Logo](images/Pandas.png) ! [JupyterLab Logo](images/jupyterlab.png)
-! [hv plot logo](images/hvplot.png)
+![Python Logo](images/python.png) ![Pandas Logo](images/Pandas.png) ![JupyterLab Logo](images/jupyterlab.png)
+![hv plot logo](images/hvplot.png)
 
 
 
