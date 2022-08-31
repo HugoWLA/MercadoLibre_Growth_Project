@@ -22,9 +22,8 @@ This project uses Python 3.9 in addition several different add-ons, please make 
 * [datetime 4.5](https://pypi.org/project/DateTime/) - Encapsulations of date/time values.
 
 ![Pandas Logo](images/Pandas.png) ![hv plot logo](images/hvplot.png)
-![numpy logo](images/Numpy.png)![matplotlib logo](images/matplotlib.png) ![JupyterLab Logo](images/jupyterlab.png)
-![Holoviews Logo](images/HoloViews.png)
-
+![numpy logo](images/Numpy.png)![matplotlib logo](images/matplotlib.png) ![Holoviews Logo](images/HoloViews.png)
+![prophet logo](images/prophet.png)
 
 
 ## Installations
